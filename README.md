@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning React Native
 
-- 💬 Ask me about : Mechanical Keyboards and Football
+- 💬 Ask me about: Mechanical Keyboards and Football
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vvaibhavdesai/) || [Twitter](https://twitter.com/vvaibhav_desai)
+- Link to Resume: [Resume](https://drive.google.com/drive/u/0/folders/1EGno-JD-MzhN5KKmQRJZSvvhrAwO5TCk)
 <!--
 **vvaibhavdesai/vvaibhavdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
