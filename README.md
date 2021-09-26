@@ -6,6 +6,7 @@
   - Redux
   - Typescript
   - ExpressJs
+  - NodeJs
   - MongoDB
   - Style Components
   - Chakra UI
