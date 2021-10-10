@@ -11,7 +11,6 @@
   - Style Components
   - Chakra UI
 
-- 🌱 I’m currently learning React Native
 
 - 💬 Ask me about: Mechanical Keyboards, Rocket League and Football
 
@@ -22,6 +21,7 @@
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning React Native
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
