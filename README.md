@@ -1,5 +1,4 @@
-### Hi there 👋 I am FullStack Developer from India who typically likes to work on Frontend. For Proof of work you can checkout the links to projects in the about section of repos
-
+### Hi there 👋 I am FullStack Developer from India who typically likes to work on Frontend.
 - SKILLS:
   - Javascript
   - ReactJS
