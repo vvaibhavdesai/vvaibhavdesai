@@ -1,9 +1,10 @@
 ### Hi there 👋 I am FullStack Developer from India who typically likes working on Frontend.
 - SKILLS:
   - Javascript
-  - ReactJS
-  - Redux
   - Typescript
+  - ReactJS
+  - React Native
+  - Redux
   - ExpressJs
   - NodeJs
   - MongoDB
